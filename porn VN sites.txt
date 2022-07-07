@@ -94,5 +94,12 @@
 0.0.0.0 scoop.it
 0.0.0.0 sexvtv.xyz
 0.0.0.0 vuagaigoi.net
-
-
+0.0.0.0 gaigutv.me
+0.0.0.0 gaigoixinh.org
+0.0.0.0 gaigoihanoi.vncns.com
+0.0.0.0 kynuviet.net
+0.0.0.0 kynu.vip
+0.0.0.0 henholamquen.info
+0.0.0.0 gaigoionline.xyz
+0.0.0.0 gaixinhgaidep.com
+0.0.0.0 gaigoivn.net
